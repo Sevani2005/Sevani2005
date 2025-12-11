@@ -1,16 +1,14 @@
-## Hi there 👋
+👋 Hi, I'm Sevani P P 
 
-<!--
-**Sevani2005/Sevani2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Learning Full Stack & Frontend Development
 
-Here are some ideas to get you started:
+💻 Passionate about building clean, responsive websites and improving full-stack skills.  
+🚀 Currently learning frontend and full-stack development to build complete real-world projects.  
+🎯 Goal: Become a professional Full-Stack Developer and get placed in a top tech company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Skills
+- Web Development
+- Frontend: HTML, CSS, JavaScript,React.js
+- Backend: Mern
+- Learning: Full Stack Development
+
