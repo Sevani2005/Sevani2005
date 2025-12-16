@@ -26,21 +26,20 @@ I love building clean, responsive web apps and solving problems on coding platfo
 
 ---
 
- LeetCode Stats & Heatmap
+## 🧮 LeetCode Stats & Heatmap
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sevani_2005)](https://leetcode.com/u/sevani_2005/)
 
 [![LeetCode Heatmap](https://leetcard.jacoblin.cool/sevani_2005?ext=heatmap)](https://leetcode.com/u/sevani_2005/)
 
----
 
 📊GitHub Stats
 
 ![Sevani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sevani2005&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevani2005&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sevani2005&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Sevani2005&theme=radical)
 
----## 🌐 Socials
+ 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sevani2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sevani2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sevani%20P%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevani-p-p-4472672a6)
