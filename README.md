@@ -40,9 +40,10 @@ I love building clean, responsive web apps and solving problems on coding platfo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevani2005&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sevani2005&theme=radical)
 
----
- 🌐Socials
+---## 🌐 Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sevani2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sevani2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
-[![Email](https://img.shields.io/badge/Email-Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sevani%20P%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sevani-p-p-4472672a6)
+[![Email](https://img.shields.io/badge/Email-kit27.cse52%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kit27.cse52@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-sevani__2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sevani_2005/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-sevani__2005-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sevani_2005)
