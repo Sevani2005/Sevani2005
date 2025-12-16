@@ -1,13 +1,13 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Sevani%20P%20P&fontSize=40&fontAlignY=35)
 
-# Hi, I'm Sevani P P 👋  
+ Hi, I'm Sevani P P 
 
 A passionate **Web Developer** focused on frontend and full‑stack development.  
 I love building clean, responsive web apps and solving problems on coding platforms.
 
 ---
 
-## 🛠 Tech Stack
+ Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,14 +19,14 @@ I love building clean, responsive web apps and solving problems on coding platfo
 
 ---
 
-## 🧩 Coding Profiles
+🧩 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-sevani__2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/sevani_2005/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-sevani__2005-brown?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/sevani_2005)
 
 ---
 
-## 🧮 LeetCode Stats & Heatmap
+ LeetCode Stats & Heatmap
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sevani_2005)](https://leetcode.com/u/sevani_2005/)
 
@@ -34,21 +34,14 @@ I love building clean, responsive web apps and solving problems on coding platfo
 
 ---
 
-## 📊 GitHub Stats
+📊GitHub Stats
 
 ![Sevani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sevani2005&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevani2005&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sevani2005&theme=radical)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sevani2005&theme=onedark&row=1&column=6)
-
----
-
-## 🌐 Socials
+ 🌐Socials
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sevani2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sevani2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID/)
