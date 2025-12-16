@@ -37,7 +37,7 @@ I love building clean, responsive web apps and solving problems on coding platfo
 
 ![Sevani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sevani2005&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sevani2005&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Sevani2005&theme=radical)
+
 
 🌐 Socials
 
